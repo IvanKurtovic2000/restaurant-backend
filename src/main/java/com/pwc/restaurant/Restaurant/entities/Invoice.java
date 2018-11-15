@@ -21,8 +21,4 @@ public class Invoice extends BaseEntity {
 		this.tableNumber = tableNumber;
 	}
 	
-	
-	
-	
-
 }
