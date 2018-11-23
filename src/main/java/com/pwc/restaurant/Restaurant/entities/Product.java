@@ -1,7 +1,7 @@
 package com.pwc.restaurant.Restaurant.entities;
 
-
 import javax.persistence.Entity;
+
 import javax.persistence.Table;
 
 

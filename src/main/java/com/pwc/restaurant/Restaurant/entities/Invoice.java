@@ -1,7 +1,9 @@
 package com.pwc.restaurant.Restaurant.entities;
 
 
+
 import javax.persistence.Entity;
+
 import javax.persistence.Table;
 
 @Entity
@@ -9,9 +11,8 @@ import javax.persistence.Table;
 public class Invoice extends BaseEntity {
 	
 	private String tableNumber;
+	
 
-	
-	
 	
 	public String getTableNumber() {
 		return tableNumber;
